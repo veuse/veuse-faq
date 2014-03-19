@@ -1,0 +1,26 @@
+/* Faq */
+
+.veuse-faq-list { 
+	margin-bottom: 20px;
+	}
+.veuse-faq-toggle {	
+	margin-bottom:-1px; 
+	border:1px solid #e4e4e4;
+	
+	}
+
+.veuse-faq-toggle-title  {			
+	padding:15px 20px 10px;
+	display: block;
+
+	cursor: pointer;
+}
+.veuse-faq-toggle-title.active{  }
+
+
+.veuse-faq-toggle-content {
+
+	padding:0px 20px 10px;
+}
+.veuse-faq-toggle-content  p:last-child { margin-bottom: 0;}
+

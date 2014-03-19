@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Veuse Posttypes Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-13 16:00+0100\n"
+"PO-Revision-Date: 2014-01-13 16:01+0100\n"
+"Last-Translator: Andreas Wilthil <andreas@siteman.no>\n"
+"Language-Team: Veuse <andreas.wilthil@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: 1,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../template-faq.php:3 ../veuse-faq-old.php:50 ../veuse-faq-old.php:51
+msgid "Faq"
+msgstr "Spørsmål og svar"
+
+#: ../veuse-faq-old.php:3
+msgid "Veuse FAQ"
+msgstr "Veuse Spørsmål og Svar"
+
+#: ../veuse-faq-old.php:52 ../veuse-faq-old.php:53
+msgid "Add New Faq"
+msgstr "Legg til spørsmål"
+
+#: ../veuse-faq-old.php:54
+msgid "Edit Faq"
+msgstr "Endre spørsmål og svar"
+
+#: ../veuse-faq-old.php:55
+msgid "All Faqs"
+msgstr "Alle spørsmål og svar"
+
+#: ../veuse-faq-old.php:56
+msgid "New Faq"
+msgstr "Nytt spørsmål og svar"
+
+#: ../veuse-faq-old.php:57
+msgid "View faq"
+msgstr "Se spørsmål og svar"
+
+#: ../veuse-faq-old.php:58
+msgid "Search Faqs"
+msgstr "Søk i spørsmål og svar"
+
+#: ../veuse-faq-old.php:59
+msgid "No Faqs"
+msgstr "Ingen spørsmål og svar"
+
+#: ../veuse-faq-old.php:60
+msgid "No Faqs found in Trash"
+msgstr "Ingen spørsmål og svar funnet i papirkurven"
+
+#: ../veuse-faq-old.php:83 ../veuse-faq.php:97
+msgid "FAQ Categories"
+msgstr "Kategorier"
+
+#: ../veuse-faq-old.php:84 ../veuse-faq.php:98
+msgid "FAQ Category"
+msgstr "Kategori"
+
+#: ../veuse-faq-old.php:85 ../veuse-faq-old.php:86 ../veuse-faq.php:99
+#: ../veuse-faq.php:100
+msgid "Add New FAQ Category"
+msgstr "Legg til ny kategori"
+
+#: ../veuse-faq-old.php:87 ../veuse-faq.php:101
+msgid "Edit FAQ Category"
+msgstr "Endre kategori"
+
+#: ../veuse-faq-old.php:88 ../veuse-faq.php:102
+msgid "All FAQ Categories"
+msgstr "Alle kategorier"
+
+#: ../veuse-faq-old.php:89 ../veuse-faq.php:103
+msgid "New FAQ Category"
+msgstr "Ny kategori"
+
+#: ../veuse-faq-old.php:90 ../veuse-faq.php:104
+msgid "View FAQ Category"
+msgstr "Vis kategori"
+
+#: ../veuse-faq-old.php:91 ../veuse-faq.php:105
+msgid "Search FAQ Categories"
+msgstr "Søk i kategorier"
+
+#: ../veuse-faq-old.php:92 ../veuse-faq.php:106
+msgid "No FAQ Categories found"
+msgstr "Ingen kategorier funnet"
+
+#: ../veuse-faq-old.php:389
+msgid "Veuse FAQ Options"
+msgstr "Spørsmål og svar innstillinger"
+
+#: ../veuse-faq-old.php:390
+msgid "Settings for the faq-plugin."
+msgstr ""
+
+#: ../veuse-faq-old.php:403
+msgid "Enable plugin stylesheet"
+msgstr ""
+
+#: ../veuse-faq-old.php:406
+msgid "Uncheck this if you want to use theme stylesheet to style the faq."
+msgstr ""
+
+#: ../veuse-faq-old.php:414
+msgid "Save Changes"
+msgstr "Lagre innstillinger"
+
+#: ../veuse-faq-old.php:437
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: ../veuse-faq.php:63 ../veuse-faq.php:64
+msgid "FAQ"
+msgstr "Spørsmål og svar"
+
+#: ../veuse-faq.php:65 ../veuse-faq.php:66
+msgid "Add New FAQ"
+msgstr "Legg til spørsmål"
+
+#: ../veuse-faq.php:67
+msgid "Edit FAQ"
+msgstr "Endre spørsmål og svar"
+
+#: ../veuse-faq.php:68
+msgid "All FAQ"
+msgstr "Alle spørsmål og svar"
+
+#: ../veuse-faq.php:69
+msgid "New FAQ"
+msgstr "Nytt spørsmål og svar"
+
+#: ../veuse-faq.php:70
+msgid "View FAQ"
+msgstr "Vis spørsmål og svar"
+
+#: ../veuse-faq.php:71
+msgid "Search FAQ"
+msgstr "Søk i spørsmål og svar"
+
+#: ../veuse-faq.php:72
+msgid "No FAQ"
+msgstr "Ingen spørsmål og svar"
+
+#: ../veuse-faq.php:73
+msgid "No FAQ found in Trash"
+msgstr "Ingen spørsmål og svar funnet i papirkurven"
+
+#: ../widget.php:11
+msgid "FAQ (Veuse)"
+msgstr "Spørsmål og svar (Siteman)"
+
+#: ../widget.php:12
+msgid "Add a faq-section to your page"
+msgstr ""
+
+#: ../widget.php:60
+msgid "Text:"
+msgstr ""
+
+#: ../widget.php:66
+msgid "Style:"
+msgstr ""
+
+#~ msgid "Veuse Portfolio"
+#~ msgstr "Veuse Portefølje-plugin"
+
+#~ msgid "Portfolio"
+#~ msgstr "Porteflølje"
+
+#~ msgid "Project"
+#~ msgstr "Prosjekt"
+
+#~ msgid "Edit Project"
+#~ msgstr "Endre prosjekt"
+
+#~ msgid "All Projects"
+#~ msgstr "Alle prosjekter"
+
+#~ msgid "New Project"
+#~ msgstr "Nytt prosjekt"
+
+#~ msgid "View Project"
+#~ msgstr "Vis prosjekt"
