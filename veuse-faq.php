@@ -236,6 +236,7 @@ $veuse_faq = new VeuseFaq;
 
 
 require_once('widget.php');
+require_once('documentation/documentation.php');
 
 		
 
